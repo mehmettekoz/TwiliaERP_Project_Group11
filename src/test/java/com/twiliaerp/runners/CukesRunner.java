@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
                 "html:target/default-html-reports"
         },
         features = "src/test/resources/features",
-        glue = "com/twiliaerp/stepdefinitions",
+        glue = "com/twiliaerp/stepDefinitions",
         dryRun = true,
         tags = "@login"
 )

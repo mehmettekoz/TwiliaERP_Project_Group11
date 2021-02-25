@@ -1,4 +1,4 @@
-package com.twiliaerp.stepdefinitions;
+package com.twiliaerp.stepDefinitions;
 
 public class ManufacturingStepDefs {
 }
