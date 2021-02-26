@@ -11,7 +11,8 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/twiliaerp/stepDefinitions",
         dryRun = true,
-        tags = "@login"
+        tags = "@wip",
+        strict = true
 )
 public class CukesRunner {
 }
